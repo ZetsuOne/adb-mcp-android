@@ -1,0 +1,14 @@
+.venv/
+.cursor/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.png
+*.apk
+
+# Local Android platform-tools (download separately; do not commit binaries)
+bin/platform-tools/
